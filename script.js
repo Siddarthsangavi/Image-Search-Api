@@ -1,4 +1,4 @@
-const accessKey = "{replace your API key here}"
+const accessKey = "YOUR_UNSPLASH_API_KEY"
 
 const formEl = document.querySelector("form")
 const inputEl = document.getElementById("search-input")
