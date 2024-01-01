@@ -1,1 +1,1 @@
-This project uses api key from (unsplash)[https://unsplash.com/]
+This project uses api key from [unsplash](https://unsplash.com/)
